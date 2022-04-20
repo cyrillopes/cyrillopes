@@ -6,7 +6,6 @@ Hello World !
 [![Website Badge](https://img.shields.io/badge/Instagram-Cyril-violet)](https://www.instagram.com/cyril_lo/)
 
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<MAC_OS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<OS>-<WINDOWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<EDITOR>-<IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<EDITOR>-<Atom>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
