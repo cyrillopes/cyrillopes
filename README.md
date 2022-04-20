@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/<CODE>-<Docker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<Kuberneties>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 I'm
 Software Developer
 I have a serious passion for UI effects, annimations and creating intuitive, dynamic user experiences. I create successful responsive websites that are fast, easy to use, and built with best practices. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), building small and medium web apps, custom plugins, features, animations, and coding interactive layouts, database(MongoDB,Mysql), CI/CD(Docker, kubernetes).
