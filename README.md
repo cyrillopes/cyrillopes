@@ -22,7 +22,7 @@ I'm
 Software Developer
 I have a serious passion for UI effects, annimations and creating intuitive, dynamic user experiences. I create successful responsive websites that are fast, easy to use, and built with best practices. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), building small and medium web apps, custom plugins, features, animations, and coding interactive layouts, database(MongoDB,Mysql), CI/CD(Docker, kubernetes).
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 Languages and Tools: 
 
