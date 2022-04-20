@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Cyril-yellow)](https://stackoverflow.com/users/16009647/cyril-lopes)
 
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<MAC_OS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<OS>-<WINDOWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<EDITOR>-<IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<EDITOR>-<Atom>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
