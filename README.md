@@ -1,7 +1,9 @@
-### Hello World ![WavingHelloGIF (2)](https://user-images.githubusercontent.com/82991076/164267125-8aad571f-5a44-4d04-91d4-4bb0764f3299.gif)
+Hello World !
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cyril-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyril-l-370131112/)](https://www.linkedin.com/in/cyril-l-370131112/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Cyril-yellow)](https://stackoverflow.com/users/16009647/cyril-lopes)
+[![Website Badge](https://www.instagram.com/cyril_lo/-Cyril-violet)](https://www.instagram.com/cyril_lo/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Cyril-yellow)](https://stackoverflow.com/users/16009647/cyril-lopes)
 
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
