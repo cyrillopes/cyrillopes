@@ -3,7 +3,7 @@ Hello World !
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cyril-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyril-l-370131112/)](https://www.linkedin.com/in/cyril-l-370131112/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Cyril-yellow)](https://stackoverflow.com/users/16009647/cyril-lopes)
-[![Website Badge](https://img.shields.io/badge/Instagram-Cyril-violet)](https://www.instagram.com/cyril_lo/)
+[![Website Badge](https://img.shields.io/badge/Instagram-Cyril-#C13584)](https://www.instagram.com/cyril_lo/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Cyril-yellow)](https://stackoverflow.com/users/16009647/cyril-lopes)
 
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
