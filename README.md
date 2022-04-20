@@ -3,6 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Cyril-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyril-l-370131112/)](https://www.linkedin.com/in/cyril-l-370131112/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Cyril-yellow)](https://stackoverflow.com/users/16009647/cyril-lopes)
 
+![](https://img.shields.io/badge/<CODE>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 I'm
 Software Developer
 I have a serious passion for UI effects, annimations and creating intuitive, dynamic user experiences. I create successful responsive websites that are fast, easy to use, and built with best practices. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), building small and medium web apps, custom plugins, features, animations, and coding interactive layouts, database(MongoDB,Mysql), CI/CD(Docker, kubernetes).
