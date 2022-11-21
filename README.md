@@ -4,7 +4,8 @@ Hi 👋 My name is Cyril Lopes
 Software Developer
 ------------------
 
-I have a serious passion for UI effects, animations, and creating intuitive, dynamic user experiences. I create successful responsive websites that are fast, easy to use, and built with best practices.
+I am a software developer, specializing in developing web-based applications. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment.
+Worked as an Associate Web developer at Diacto Technologies and skilled in technical aspects, communication, presentation, problem-solving, and management skills to improve the individual, team, and organizational performance. Willing to work as a key player in a challenging and creative environment where my technical, and logical skills would be applied for the uplift of the organization.
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [click here.](http://cyrillopes.github.io/Personal-Website/)
