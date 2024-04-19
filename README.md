@@ -22,9 +22,6 @@ Whether you're a startup with a bold vision or an established enterprise seeking
 
 Ready to embark on a journey of innovation and growth? Let's chat! Whether it's a freelance gig, a collaborative project, or just a friendly conversation about all things tech, I'm just a message away. Let's make waves together!
 
-* 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [click here.](http://cyrillopes.github.io/Personal-Website/)
-* ✉️  You can contact me at [cyrillopez05@gmail.com](mailto:cyrillopez05@gmail.com)
 
 ### Skills
 
