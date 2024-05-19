@@ -8,7 +8,7 @@ Armed with expertise in Node.js, JavaScript, and React.js, I'm your go-to develo
 
 💼 Professional Journey
 
-Currently, I'm honing my skills as a developer at Aiolos Cloud Solutions, where I'm immersed in cutting-edge technologies and innovative projects. Additionally, I freelance for Dakri Cartons Mauritius, where I leverage my expertise to deliver tailored solutions and drive business growth.
+Currently, I'm honing my skills as a developer at Aiolos Cloud Solutions, where I'm immersed in cutting-edge technologies and innovative projects. Additionally, I used to freelance for Dakri Cartons Mauritius, where I leveraged my expertise to deliver tailored solutions and drive business growth.
 
 🌟 Driven by Impact
 
