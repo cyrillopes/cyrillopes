@@ -8,11 +8,11 @@ Armed with expertise in Node.js, JavaScript, and React.js, I'm your go-to develo
 
 💼 Professional Journey
 
-Currently, I'm honing my skills as a developer at Dotsoft Technologies Pvt Ltd, where I'm immersed in cutting-edge technologies and innovative projects. Additionally, I used to freelance for Dakri Cartons Mauritius, where I leveraged my expertise to deliver tailored solutions and drive business growth.
+Currently, I'm honing my skills as a developer at UMB Bank, where I'm immersed in cutting-edge technologies and innovative projects.
 
 🌟 Driven by Impact
 
-During my journey with Aiolos Cloud Solutions, I didn't just write code—I orchestrated solutions. Through effective communication, strategic problem-solving, and meticulous project management, I elevated team performance and drove tangible results.
+During my journey with HCA Healthcare, I didn't just write code—I orchestrated solutions. Through effective communication, strategic problem-solving, and meticulous project management, I elevated team performance and drove tangible results.
 
 🌐 Open for Collaboration
 
